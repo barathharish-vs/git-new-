@@ -1,6 +1,7 @@
 # My Git Practice
 # this is the work done by the bug branch
 This is my first Git practice project.
+#the bug branch is now updated with the new command 2.0
 
 ## About
 
